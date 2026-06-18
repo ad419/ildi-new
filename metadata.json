@@ -1,0 +1,6 @@
+{
+  "name": "Ildi Idraulico Portfolio",
+  "description": "Professional portfolio website for Ildi Idraulico, featuring plumbing/hydraulic services, in Italian and Albanian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
